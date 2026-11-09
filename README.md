@@ -22,5 +22,7 @@ TouchKio - starts home assistant on boot as a lockdown
 - Awake with a screen tap
 
 ## Applications
-- 
-- 
+- Calendar
+- Light control
+- Weather
+  
